@@ -1,0 +1,215 @@
+Code based on the course:
+
+"Java for Complete Beginners"
+by John Purcell
+ 
+ 
+ SECTION 1 Introduction
+
+    Lecture 1
+    Introduction and Installation
+    
+    Lecture 2
+    What Java Is and How It Works
+    
+    Lecture 3
+    Getting a Job and What to Study After Completing Basic Java
+    
+    Lecture 4
+    How To Get The Most Out Of This Course
+    
+
+SECTION 2 Programming Core Java
+
+    Lecture 5
+    A Hello World Program
+    
+    Lecture 6
+    Using Variables
+    
+    Lecture 7
+    Strings: Working With Text
+    
+    Lecture 8
+    While Loops
+    
+    Lecture 9
+    For Loops
+    
+    Lecture 10
+    "If"
+    
+    Lecture 11
+    Getting User Input
+    
+    Lecture 12
+    Do ... While
+    
+    Lecture 13
+    Switch
+    
+    Lecture 14
+    Arrays
+    
+    Lecture 15
+    Arrays of Strings
+    
+    Lecture 16
+    Multi-Dimensional Arrays
+    
+    Lecture 17
+    Classes and Objects
+    
+    Lecture 18
+    Methods
+    
+    Lecture 19
+    Getters and Return Values
+    
+    Lecture 20
+    Method Parameters
+    
+    Lecture 21
+    Setters and "this"
+    
+    Lecture 22
+    Constructors
+    
+    Lecture 23
+    Static (and Final)
+    
+    Lecture 24
+    String Builder and String Formatting
+    
+    Lecture 25
+    The toString Method
+    
+    Lecture 26
+    Inheritance
+    
+    Lecture 27
+    Packages
+    
+    Lecture 28
+    Interfaces
+    
+    Lecture 29
+    Public, Private, Protected
+    
+    Lecture 30
+    Polymorphism
+    
+    Lecture 31
+    Encapsulation and the API Docs
+    
+    Lecture 32
+    Casting Numerical Values
+    
+    Lecture 33
+    Upcasting and Downcasting
+    
+    Lecture 34
+    Using Generics
+    
+    Lecture 35
+    Generics and Wildcards
+    
+    Lecture 36
+    Anonymous Classes
+    
+    Lecture 37
+    Reading Files Using Scanner
+    
+    Lecture 38
+    Handling Exceptions
+    
+    Lecture 39
+    Multiple Exceptions
+    
+    Lecture 40
+    Runtime vs. Checked Exceptions
+    
+    Lecture 41
+    Abstract Classes
+    
+    Lecture 42
+    Reading Files With File Reader
+    
+    Lecture 43
+    Try-With-Resources
+    
+    Lecture 44
+    Creating and Writing Text Files
+    
+    Lecture 45
+    The equals() Method
+    
+    Lecture 46
+    Inner Classes
+    
+    Lecture 47
+    Enum Types: Basic and Advanced Usage
+    
+    Lecture 48
+    Recursion: A Useful Trick Up Your Sleeve
+    
+    Lecture 49
+    Serialization: Saving Objects to Files
+    
+    Lecture 50
+    Serializing Arrays 
+	
+	
+	SECTION 3 The Java Collections Framework
+
+    Lecture 51
+    ArrayList: Arrays the Easy Way
+    
+    Lecture 52
+    Linked Lists
+    
+    Lecture 53
+    HashMap: Retrieving Objects via a Key
+    
+    Lecture 54
+    Sorted Maps
+    
+    Lecture 55
+    Sets
+    
+    Lecture 56
+    Using Custom Objects in Sets and as Keys in Maps
+    
+    Lecture 57
+    Sorting Lists
+    
+    Lecture 58
+    Natural Ordering
+    
+    Lecture 59
+    Queues
+    
+    Lecture 60
+    Using Iterators
+    
+    Lecture 61
+    Implementing Iterable
+    
+    Lecture 62
+    Deciding Which Collection to Use
+    
+    Lecture 63
+    Complex Data Structures
+    
+
+SECTION 4 Appendix
+
+    ...
+
+SECTION 5 Tests
+
+    ...
+
+SECTION 6 More ...
+
+    ...
