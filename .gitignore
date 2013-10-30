@@ -1,0 +1,9 @@
+﻿# Ignore all files in the target/ directory #
+target/
+
+# JAVA.gitignore #
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
